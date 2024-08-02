@@ -72,13 +72,13 @@ The difference is that the dynamic scripts will have different content every tim
 
 -	Microsoft SQL
 
-	-	[MSSQL from version 2016] (https://sample-db.net/?dbmss[]=mssql-16&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
+	-	[MSSQL from version 2016](https://sample-db.net/?dbmss[]=mssql-16&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
 	-	[MSSQL up to version 2014](https://sample-db.net/?dbmss[]=mssql-14&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
 
 -	Oracle
 
-	-	[From version 12c (Plain)]	(https://sample-db.net/?dbmss[]=oracle-12&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
-	-	[From version 23c (Plain)]	(https://sample-db.net/?dbmss[]=oracle-23c&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
+	-	[From version 12c (Plain)](https://sample-db.net/?dbmss[]=oracle-12&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
+	-	[From version 23c (Plain)](https://sample-db.net/?dbmss[]=oracle-23c&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
 	-	[From version 12c (SQLPlus)](https://sample-db.net/?dbmss[]=oracle-12-plus&dbmss[]=oracle-23c&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
 	-	[From version 23c (SQLPlus)](https://sample-db.net/?dbmss[]=oracle-23c-plus&db=books&br=crlf&refresh&extra-tables[]=towns&extra-tables[]=countries&exercises)
 
@@ -134,4 +134,7 @@ The SQL samples in the text are there for you try on your database client. They 
 -	[Microsoft SQL](https://github.com/Apress/leveling-up-sql/blob/master/exercise-files/mssql.sql)
 -	[Oracle](https://github.com/Apress/leveling-up-sql/blob/master/exercise-files/oracle.sql)
 
-
+
+
+
+
