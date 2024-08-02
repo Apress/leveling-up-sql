@@ -104,7 +104,7 @@ Choose the following options:
 
 2.	Select the Sample Database
 
-	For this book the sample is expected to be __Bookworks__.
+	For this book the sample is expected to be called __bookworks__.
 
 3.	Select the DBMS
 
